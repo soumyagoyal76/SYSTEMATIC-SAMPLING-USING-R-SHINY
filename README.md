@@ -1,1 +1,1 @@
-# SYSTEMATIC-SAMPLING-USING-R-SHINY
+# Interactive Systematic Sampling Designer – R Shiny Application
